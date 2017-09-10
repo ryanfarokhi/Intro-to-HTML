@@ -1,33 +1,50 @@
 <!DOCTYPE html>
 <html>
     <head>
-      
-       <meta charset="utf-8">
-        <title>Project: Travel webpage</title>
-        <style>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title >       <style>
+        
+        
+
             h1 {
-                color:rgb(255, 140, 255)
+                color:rgb(255, 140,255);
             }
             
-            h2{
-                color:rgb(255, 110, 255)
+            h2 {
+                color:rgb(255,140,255);
             }
-             
+            
+            #travel-text{
+                background-color:purple;
+            }
+            
+            #why-text{
+                background-color:blue;
+            }
         </style>
+        
     </head>
     <body>
     
-        <h1>Travel to <em>Punta Cana</em></h1>
         
-        <h2> why should I go?</h2>
+        <h1 id="travel-text">Travel to <em>Punta Cana</em></h1>
+        
+        <h2 id="why-text"><strong> why should I go?</strong></h2>
         <p>Punta Cana has a tropical and dry climte
-        around 30c (86f)<br> 
-        the best time to vist is around march to july<br>
-        They have one of the best beachs in my opinion with its <br>       golden brown sand  and its beautiful views of the ocean <br>       I  guarantee you wont get bored with its 35 km beach you wont get <br> 
-        disappointed
-       <img src="https://www.kasandbox.org/programming-images/landscapes/beach-waves-at-sunset.png">
+        around 30c (86f).<br> 
+        The best time to vist is around march to july.<br>
+        They have one of the best beachs in my opinion with its <br>       golden brown sand and its beautiful views of the ocean. <br>       I  guarantee you wont get bored with its <strong><em>35 km beach</em> </strong>
+        <br> 
+        you wont be disappointed </P>
+      
+      
+       <img src="https://www.kasandbox.org/programming-images/landscapes/beach-waves-at-sunset.png"width="200">
+       <img src="https://www.kasandbox.org/programming-images/landscapes/beach-with-palm-trees.png"width="200">
+    <img src="https://www.kasandbox.org/programming-images/landscapes/beach-waves-daytime.png"width="200">
+        <h3> places to vist </h3>
+        <li>Bávaro (a great beach resort)</li>
+        <li>Catalina Island (snorkleing,beach,scuba diving)
+        <li>Altos de Chavón(concert and theatre)
         
-        
-        </p>
     </body>
 </html>
