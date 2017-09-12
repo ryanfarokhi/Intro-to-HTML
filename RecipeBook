@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        
+        </style>
+    </head>
+    <body>
+       
+        <h1>Ryan's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#recipe-one"> Recipe #1</a></li>
+        </ol>
+        <li><a href="#recipe-two"> Recipe  #2</a></li>
+        <li><a href="#recipe-three"> Reciple #3</a></li>
+        
+        <h2 id="recipe-one">Recipe #1</h2>
+        
+        
+        <ul>
+            <li>Time: 7 minutes</li>
+            <li>Serves: 1 person</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+               
+               
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+                <tr>
+                    <th> buns,patty,lettuce,tomato's,bacon and a side of fries
+                    <th> 1 hamburger
+                    
+                </tr>
+                <tr>
+                    
+                    
+                    
+                </tr>
+        </table>
+        <h3 id="recipe-two">Recipe #2</h3>
+        
+        <ul>
+            <li>Time: 7 minutes</li>
+            <li>Serves: 1 person</li>
+        
+        </ul>
+        
+         <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+               
+               
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+                <tr>
+                    <th> buns,grilled Chicken,lettuce,tomato's, and a side of fries or salad
+                    
+                    <th>      1 Chicken burger
+                    
+                </tr>
+                <tr>
+                    
+                    
+                    
+                </tr>
+        </table>
+       <h4 id="recipe-three">Recipe #3</h4>
+        <ul>
+            <li>Time: 4 minutes</li>
+            <li>Serves: 2 people </li>
+        
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+               
+               
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+                <tr>
+                    <th> french fries,cheese curds,gravy
+                    
+                    <th>      1 poutin
+                    
+                </tr>
+                <tr>
+                    
+                    
+                    
+                </tr>
+        
+
+
+        
+    </table>
+    
+    </body>
+</html>
